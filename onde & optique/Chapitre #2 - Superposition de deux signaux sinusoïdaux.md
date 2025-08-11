@@ -169,19 +169,24 @@ $$
 #### 1. Expression mathématique  
 
 Une onde progressive sinusoïdale est décrite par la perturbation à la source :  
+
 $$
 u(0,t) = f_0(t) = A \times \cos(\omega t + \varphi_0)
 $$
+
 - $A$ : amplitude  
 - $\omega$ : pulsation, liée à la fréquence $f$ et la période $T$ par $\omega = 2\pi f = \frac{2\pi}{T}$  
 - $\varphi_0$ : phase initiale  
 
 En un point $x$ de la corde, la perturbation arrive avec un retard $\theta = \frac{x}{c}$, donc :  
+
 $$
 u(x,t) = A \times \cos \left( \omega \left(t - \frac{x}{c}\right) + \varphi_0 \right) 
 = A \times \cos \left(\omega t - k x + \varphi_0 \right)
+
 $$
-avec  
+avec 
+
 $$
 k = \frac{\omega}{c} = \frac{2\pi}{\lambda}
 $$
@@ -190,11 +195,14 @@ $$
 
 #### 2. Double périodicité  
 
-- Vecteur d'onde :  
+- Vecteur d'onde :
+- 
 $$
 \vec{R} = \frac{\omega}{c}
 $$
-- Nombre d'onde :  
+
+- Nombre d'onde :
+
 $$
 \theta = \frac{1}{\lambda}
 $$
@@ -202,11 +210,13 @@ $$
 On remarque que $u(x,t)$ reprend la même valeur dès que l’argument du cosinus varie de $2\pi$.  
 
 Périodicité temporelle :  
+
 $$
 T = \frac{2\pi}{\omega} = \frac{1}{f}
 $$
 
 Périodicité spatiale :  
+
 $$
 \lambda = \frac{2\pi}{k} = \frac{1}{\theta} = c T
 $$
@@ -221,21 +231,25 @@ $$
 #### 3. Déphasage entre deux points  
 
 La phase à l’abscisse $x$ est :  
+
 $$
 \varphi(x) = \varphi_0 - k x
 $$
 
 Le déphasage entre deux points $x_1$ et $x_2$ est :  
+
 $$
 \varphi(x_2) - \varphi(x_1) = -k (x_2 - x_1) = - \frac{2\pi}{\lambda} (x_2 - x_1)
 $$
 
-- Deux points vibrent **en phase** si :  
+- Deux points vibrent **en phase** si :
+- 
 $$
 \varphi(x_2) - \varphi(x_1) = m \times 2\pi \quad \Rightarrow \quad x_2 - x_1 = m \lambda, \quad m \in \mathbb{Z}
 $$
 
-- Deux points vibrent **en opposition de phase** si :  
+- Deux points vibrent **en opposition de phase** si :
+- 
 $$
 \varphi(x_2) - \varphi(x_1) = \left(m + \frac{1}{2}\right) \times 2\pi \quad \Rightarrow \quad x_2 - x_1 = \left(m + \frac{1}{2}\right) \lambda
 $$
