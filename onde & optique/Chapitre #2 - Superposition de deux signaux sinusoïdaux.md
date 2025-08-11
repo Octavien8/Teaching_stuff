@@ -152,11 +152,12 @@ Une onde progressive est provoquée par un signal périodique entretenu. On note
 #### 2. Double périodicité  
 Une onde progressive présente une double périodicité :  
 - **Périodicité temporelle** :  
-  On observe un point particulier de la corde, on constate que l’on retrouve le même état (même valeur $u$) à des dates séparées par des multiples entiers de $T$.  
+  On observe un point particulier de la corde, on constate que l’on retrouve le même état (même valeur $u$) à des dates séparées par des multiples entiers de  $T$.  
 - **Périodicité spatiale** :  
-  Au même instant, certains points de la corde sont dans un même état (même valeur de $u$), ces points sont séparés par des distances égales à des multiples entiers de la longueur d’onde $\lambda$.
+  Au même instant, certains points de la corde sont dans un même état (même valeur de $u$), ces points sont séparés par des distances égales à des multiples entiers de la longueur d’onde  $\lambda$.
 
-> Fondamental : La période et la longueur d’onde sont liées à la célérité $c$ par la relation :  
+> Fondamental : La période et la longueur d’onde sont liées à la célérité $c$ par la relation :
+> 
 $$
 \lambda = c \times T
 $$
