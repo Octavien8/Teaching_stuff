@@ -42,7 +42,7 @@ $$ L = \frac{2 \lambda D}{a} \quad \text{ou encore} \quad \theta = \frac{\lambda
 
 > Plus $\lambda$ est grand par rapport à $a$, plus la diffraction est marquée.
 
-! [Fente unique](image/diffraction_fente_unique.png)
+![Fente unique](image/diffraction_fente_unique.png)
 ## C. Polarisation de la lumière
 
 ### 1. Définition
