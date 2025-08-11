@@ -21,7 +21,7 @@ Elle peut être interprétée comme la **projection sur l’axe $Ox$** d’un ve
 ### Forme complexe (représentation de Fresnel, exponentielle complexe) :
 
 $$
-s(t) = \Re\left\{ A e^{j(\omega t + \varphi_0)} \right\}
+s(t) = \Re\{ A e^{j(\omega t + \varphi_0)} \}
 $$
 
 Dans cette forme :
