@@ -29,5 +29,5 @@ def animate(t):
     return line,
 
 ani = FuncAnimation(fig, animate, frames=np.linspace(0, 4*np.pi, 200), interval=30)
-ani.save("Cours_numeriques\\Onde_et_optique\\images\\corde.gif", writer=PillowWriter(fps=20))
+#ani.save("Cours_numeriques\\Onde_et_optique\\images\\corde.gif", writer=PillowWriter(fps=20))
 HTML(ani.to_jshtml())
