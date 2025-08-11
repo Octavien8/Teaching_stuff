@@ -138,7 +138,7 @@ Un signal périodique complexe contient plusieurs harmoniques. Cette décomposit
 Sur ces graphes, j’ai modélisé un signal sinusoïdal modulé en amplitude, constitué de deux composantes : une première de fréquence principale 50 Hz et d’amplitude 1, et une seconde de fréquence 250 Hz avec une amplitude de 0,5.
 La décomposition spectrale via la transformée de Fourier montre clairement la présence de pics aux fréquences correspondantes. On observe que l’amplitude des pics est réduite de moitié par rapport aux amplitudes du signal temporel. Cela s’explique par le fait que le modèle de Fourier répartit l’amplitude entre les composantes à fréquence positive et négative (spectre symétrique pour les signaux réels).
 
-## 4- Une onde particulière : la lumière
+## 5- Une onde particulière : la lumière
 
 ### A. Modèle ondulatoire
 
