@@ -8,10 +8,16 @@ La lumière est une **onde électromagnétique**, ce n’est pas une onde mécan
 La grandeur qui vibre est un **champ électrique** (associé à un champ magnétique).  
 Les champs **électrique** et **magnétique** sont **orthogonaux** à la direction de propagation de l’onde → onde **transversale**.
 
-> Dans le vide, la vitesse de la lumière est :  
-$$ c = 299\ 792\ 458\ \text{m} \, \text{s}^{-1} $$
+> Dans le vide, la vitesse de la lumière est :
+
+ 
+$$
+c = 299\ 792\ 458\ \text{m} \, \text{s}^{-1} 
+
+$$
 
 Relation entre **longueur d'onde** $ \lambda $ et **fréquence** $ f $ :
+
 $$ c = \lambda f $$
 
 ### 2. Mise en évidence
@@ -52,7 +58,10 @@ Une onde lumineuse est dite **polarisée** si le champ électrique reste orient�
 
 Si une lumière polarisée passe par un polariseur orienté selon un angle $ \theta $ par rapport à la direction initiale de polarisation :
 
-$$ \phi = \phi_0 \cos^2(\theta) $$
+$$ 
+\phi = \phi_0 \cos^2(\theta) 
+$$
+
 [loi de malus](image/malus.png)
 
 **Remarque** : Ce modèle ondulatoire de la lumière permet d'expliquer des phénomènes comme les interférences, la diffraction et la polarisation, mais ne rend pas compte de la quantification de l'énergie, ce qui relève du **modèle quantique**.
