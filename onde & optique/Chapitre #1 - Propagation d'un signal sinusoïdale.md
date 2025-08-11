@@ -138,9 +138,9 @@ Un signal périodique complexe contient plusieurs harmoniques. Cette décomposit
 Sur ces graphes, j’ai modélisé un signal sinusoïdal modulé en amplitude, constitué de deux composantes : une première de fréquence principale 50 Hz et d’amplitude 1, et une seconde de fréquence 250 Hz avec une amplitude de 0,5.
 La décomposition spectrale via la transformée de Fourier montre clairement la présence de pics aux fréquences correspondantes. On observe que l’amplitude des pics est réduite de moitié par rapport aux amplitudes du signal temporel. Cela s’explique par le fait que le modèle de Fourier répartit l’amplitude entre les composantes à fréquence positive et négative (spectre symétrique pour les signaux réels).
 
-### Une onde particulière : la lumière
+## 4- Une onde particulière : la lumière
 
-#### A. Modèle ondulatoire
+### A. Modèle ondulatoire
 
 La **lumière** est une onde **électromagnétique** transversale :
 
@@ -148,13 +148,13 @@ La **lumière** est une onde **électromagnétique** transversale :
 * Dans le vide, $c = 299\ 792\ 458\ \text{m.s}^{-1}$
 * $c = \lambda f$
 
-#### B. Diffraction
+### B. Diffraction
 
-##### 1. Mise en évidence
+#### 1. Mise en évidence
 
 Lorsqu'une onde traverse une ouverture de taille comparable à $\lambda$, elle se **diffracte**.
 
-###### 2. Loi de diffraction
+##### 2. Loi de diffraction
 
 $$
 L = \frac{2 \lambda D}{a}, \quad \theta = \frac{\lambda}{a}
@@ -162,14 +162,14 @@ $$
 
 Plus $\lambda$ est grand, plus la diffraction est marquée.
 
-#### C. Polarisation
+### C. Polarisation
 
-##### 1. Définition
+#### 1. Définition
 
 Si le champ $\vec{E}$ garde une direction fixe, la lumière est **polarisée**.
 Un **polariseur** laisse passer les ondes selon une direction.
 
-##### 2. Loi de Malus
+#### 2. Loi de Malus
 
 La **loi de Malus** décrit comment l’intensité d’une onde lumineuse polarisée varie lorsqu’elle traverse un polariseur. Elle énonce que l’intensité transmise $I$ est proportionnelle au carré du cosinus de l’angle $\theta$ entre la direction de polarisation initiale de la lumière et l’axe de transmission du polariseur :
 
