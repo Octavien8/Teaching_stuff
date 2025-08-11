@@ -130,7 +130,6 @@ On s’intéresse aux ondes progressives sinusoïdales émises par deux sources 
 On suppose qu’elles ont une même amplitude $A$ et une même fréquence (période $T$, longueur d’onde $\lambda$).
 
 Les perturbations en un point $M$ engendrées par ces deux ondes s’écrivent :
-
 $$
 \begin{cases}
 u_1(r_1, t) = A \times \cos \left( 2 \pi \left(\frac{1}{T} t - \frac{r_1}{\lambda}\right) \right) \\
@@ -183,7 +182,6 @@ En un point $x$ de la corde, la perturbation arrive avec un retard $\theta = \fr
 $$
 u(x,t) = A \times \cos \left( \omega \left(t - \frac{x}{c}\right) + \varphi_0 \right) 
 = A \times \cos \left(\omega t - k x + \varphi_0 \right)
-
 $$
 avec 
 
@@ -196,7 +194,6 @@ $$
 #### 2. Double périodicité  
 
 - Vecteur d'onde :
-- 
 $$
 \vec{R} = \frac{\omega}{c}
 $$
