@@ -1,7 +1,8 @@
 # Cours d'onde et optique
 ## Themes :
  ---
-- Propagation d'un signal sinusoïdale [Chapitre #1](Chapitre #1 - Propagation d'un signal sinusoïdale.md)
+- Propagation d'un signal sinusoïdale [Chapitre #1](Chapitre%20%231%20-%20Propagation%20d%27un%20signal%20sinusoïdale.md)
+
   - Onde 
   - Modele : ondes progressive sinusoïdale
 - Supperposition de deux signaux sinusoîdaux
