@@ -21,14 +21,14 @@ Elle peut être interprétée comme la **projection sur l’axe $Ox$** d’un ve
 ### Forme complexe (représentation de Fresnel, exponentielle complexe) :
 
 $$
-s(t) = \Re{ A e^{j(\omega t + \varphi_0)} }
+s(t) = \Re{ [A e^{j(\omega t + \varphi_0)} ]}
 $$
 
 Dans cette forme :
 
 * $j$ est l’unité imaginaire (avec $j^2 = -1$),
 * $e^{j(\omega t + \varphi_0)}$ représente une **rotation dans le plan complexe** (appelée **phasor**),
-* $\Re\{\cdot\}$ signifie qu’on prend la **partie réelle** du nombre complexe.
+* $\Re[\{\cdot\}]$ signifie qu’on prend la **partie réelle** du nombre complexe.
 
 
 
