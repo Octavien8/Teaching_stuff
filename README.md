@@ -1,5 +1,6 @@
 # Teaching_stuff
 
+ˋˋˋ
 📁 onde & optique
 ├── 📁 Codes Pythons
 |    ├── 🐍 Somme_sinus.py
@@ -31,7 +32,7 @@
 ├── 📄 Chapitre #2 - Superposition de deux signaux sinusoïdaux.md
 ├── 📄 Une onde perticulière : la lumière.md
 └── 📄 Readme.md
-
+ˋˋˋ
 ˋˋˋ
 📄 notes.txt
 🐍 main.py
