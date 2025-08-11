@@ -63,4 +63,4 @@ $$
 
 ![loi de malus](image/malus.png)
 
-**Remarque** : Ce modèle ondulatoire de la lumière permet d'expliquer des phénomènes comme les interférences, la diffraction et la polarisation, mais ne rend pas compte de la quantification de l'énergie, ce qui relève du **modèle quantique**.
+**Remarque** : Ce modèle ondulatoire de la lumière permet d'expliquer des phénomènes comme les interférences, la diffraction et la polarisation, mais ne rend pas compte de la quantification de l'énergie, ce qui relève du **modèle quantique** (que je ne maîtrise pas).
