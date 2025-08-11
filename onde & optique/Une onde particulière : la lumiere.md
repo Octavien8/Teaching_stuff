@@ -13,7 +13,6 @@ Les champs **électrique** et **magnétique** sont **orthogonaux** à la directi
  
 $$
 c = 299\ 792\ 458\ \text{m} \, \text{s}^{-1} 
-
 $$
 
 Relation entre **longueur d'onde** $ \lambda $ et **fréquence** $ f $ :
