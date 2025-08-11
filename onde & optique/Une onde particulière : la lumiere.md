@@ -15,7 +15,7 @@ $$
 c = 299\ 792\ 458\ \text{m} \, \text{s}^{-1} 
 $$
 
-Relation entre **longueur d'onde** $ \lambda $ et **fréquence** $ f $ :
+Relation entre **longueur d'onde** $\lambda$ et **fréquence** $f$ :
 
 $$ c = \lambda f $$
 
@@ -36,11 +36,11 @@ De nombreux phénomènes montrent le caractère ondulatoire de la lumière :
 
 ### 2. Lois de diffraction
 
-Si une onde lumineuse de longueur d’onde $ \lambda $ passe par une ouverture de largeur $ a $, la **largeur de la tache centrale** sur un écran placé à distance $ D $ est donnée par :
+Si une onde lumineuse de longueur d’onde $ \lambda $ passe par une ouverture de largeur $a$, la **largeur de la tache centrale** sur un écran placé à distance $D$ est donnée par :
 
 $$ L = \frac{2 \lambda D}{a} \quad \text{ou encore} \quad \theta = \frac{\lambda}{a} $$
 
-> Plus $ \lambda $ est grand par rapport à $ a $, plus la diffraction est marquée.
+> Plus $\lambda$ est grand par rapport à $a$, plus la diffraction est marquée.
 
 [Fente unique](image/diffraction_fente_unique.png)
 ## C. Polarisation de la lumière
@@ -55,7 +55,7 @@ Une onde lumineuse est dite **polarisée** si le champ électrique reste orient�
 
 ### 2. Loi de Malus
 
-Si une lumière polarisée passe par un polariseur orienté selon un angle $ \theta $ par rapport à la direction initiale de polarisation :
+Si une lumière polarisée passe par un polariseur orienté selon un angle $\theta$ par rapport à la direction initiale de polarisation :
 
 $$ 
 \phi = \phi_0 \cos^2(\theta) 
