@@ -68,5 +68,5 @@ def update(frame):
 ani = animation.FuncAnimation(fig, update, frames=300, init_func=init,
                               blit=True, interval=33)
 
-ani.save("Cours_numeriques\\Onde_et_optique\\images\\bateau.gif", writer=PillowWriter(fps=20))
+#ani.save("Cours_numeriques\\Onde_et_optique\\images\\bateau.gif", writer=PillowWriter(fps=20))
 HTML(ani.to_jshtml())
