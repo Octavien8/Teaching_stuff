@@ -18,7 +18,7 @@ Elle peut être interprétée comme la **projection sur l’axe $Ox$** d’un ve
 
 ---
 
-### Forme complexe (représentation de Fresnel / exponentielle complexe) :
+### Forme complexe (représentation de Fresnel, exponentielle complexe) :
 
 $$
 s(t) = \Re\left\{ A e^{j(\omega t + \varphi_0)} \right\}
@@ -39,6 +39,7 @@ Cela permet :
 * une **visualisation directe** dans le plan complexe $\mathbb{C}$,
 * une base solide pour l’analyse fréquentielle (Fourier, filtrage…).
 
+![Sin_trigo](image/sin_trigo.gif)
 ## -2 Propriétés de la somme de deux signaux sinusoïdaux
 
 On peut ainsi obtenir, par construction graphique, la somme de deux fonctions sinusoïdales.
@@ -53,6 +54,7 @@ $$
 
 On peut visualiser la somme de deux vecteurs tournants représentant chacun un signal sinusoïdal. La somme vectorielle donne le signal résultant.
 
+[code de visualisation : Somme signaux sinusoïdaux](Code%20Pythons/Somme_sinus.py)
 ### 2. Expression mathématique
 
 Soient deux signaux :
@@ -236,6 +238,8 @@ $$
 $$
 \varphi(x_2) - \varphi(x_1) = \left(m + \frac{1}{2}\right) \times 2\pi \quad \Rightarrow \quad x_2 - x_1 = \left(m + \frac{1}{2}\right) \lambda
 $$
+
+[Calcul de déphasage](Code%20Pythons/calcul_dephasage.py)
 
 ---
 
