@@ -2,7 +2,7 @@
 ## 1- Notion
 En physique, une **onde** est une perturbation (dans notre cas périodique) qui se propage dans l’espace et/ou le temps, transportant de l’énergie **sans transport global de matière** (cf. animation Bateau & vague - Transport d'energie sans transport de matière).
 
-[image/bateau.gif](image/bateau.gif)
+![image/bateau.gif](image/bateau.gif)
 
 Elle résulte souvent d’une variation/perturbation périodique d’une grandeur physique (position, pression, champ électrique, etc.) et peut se propager :
 
@@ -48,7 +48,7 @@ Type d'onde
 Pour les ondes mécaniques transversales, on parle aussi d’ondes de cisaillement.
 Pour les ondes mécaniques longitudinales, on parle aussi d’ondes de compression/dilatation.
 
-[image/onde_transverse-longitudinale.gif](image/onde_transverse-longitudinale.gif)
+![image/onde_transverse-longitudinale.gif](image/onde_transverse-longitudinale.gif)
 
 ### Ondes dimensionnelles
 Une onde est une perturbation qui se propage depuis une source dans l’espace, généralement dans toutes les directions possibles. On peut distinguer différents cas selon le nombre de dimensions dans lesquelles l’onde se propage :
@@ -61,11 +61,11 @@ Une onde est une perturbation qui se propage depuis une source dans l’espace, 
 
 Le modèle unidimensionnel est souvent utilisé comme approximation pour simplifier l’étude d’ondes en 2D ou 3D, car il décrit la propagation dans une seule direction.
 #### 1 Dimension - Simulation d'une corde
-[image/corde.gif](image/corde.gif)
+![image/corde.gif](image/corde.gif)
 #### 2 Dimensions - Simulation d'une goutte d'eau
-[image/goutte_eau.gif](image/goutte_eau.gif)
+![image/goutte_eau.gif](image/goutte_eau.gif)
 #### 3 Dimensions - Simulation onde électromagnetique
-[image/electromag_2.gif](image/electromag_2.gif)
+![image/electromag_2.gif](image/electromag_2.gif)
 
 ## 4- Application au modèle d'une onde progressive sinusoïdale
 ### A. Onde progressive
@@ -81,7 +81,7 @@ Une onde progressive présente une double périodicité :
 
 Relation fondamentale :
 $\lambda = cT$
-[image/double_periodicite.gif](image/double_periodicite.gif)
+![image/double_periodicite.gif](image/double_periodicite.gif)
 
 ### B. Onde progressive sinusoïdale
 
@@ -132,7 +132,9 @@ Tout signal périodique peut être décomposé en une somme de fonctions sinuso�
 
 Un signal périodique complexe contient plusieurs harmoniques. Cette décomposition est utile pour l'analyse spectrale.
 **Simulation d'une somme de deux sinus**
-[image/signal_sonore_fourier.png](image/signal_sonore_fourier.png)
+
+![image/signal_sonore_fourier.png](image/signal_sonore_fourier.png)
+
 Sur ces graphes, j’ai modélisé un signal sinusoïdal modulé en amplitude, constitué de deux composantes : une première de fréquence principale 50 Hz et d’amplitude 1, et une seconde de fréquence 250 Hz avec une amplitude de 0,5.
 La décomposition spectrale via la transformée de Fourier montre clairement la présence de pics aux fréquences correspondantes. On observe que l’amplitude des pics est réduite de moitié par rapport aux amplitudes du signal temporel. Cela s’explique par le fait que le modèle de Fourier répartit l’amplitude entre les composantes à fréquence positive et négative (spectre symétrique pour les signaux réels).
 
@@ -169,6 +171,10 @@ Un **polariseur** laisse passer les ondes selon une direction.
 
 ##### 2. Loi de Malus
 
+La **loi de Malus** décrit comment l’intensité d’une onde lumineuse polarisée varie lorsqu’elle traverse un polariseur. Elle énonce que l’intensité transmise $I$ est proportionnelle au carré du cosinus de l’angle $\theta$ entre la direction de polarisation initiale de la lumière et l’axe de transmission du polariseur :
+
 $$
 I = I_0 \cos^2(\theta)
 $$
+
+où $I_0$ est l’intensité de la lumière incidente. Concrètement, si la lumière est déjà polarisée dans la même direction que le polariseur ($\theta = 0°$), toute l’intensité passe ($I = I_0$). En revanche, si elle est polarisée perpendiculairement à l’axe du polariseur ($\theta = 90°$), aucune lumière ne passe ($I = 0$). Cette loi, formulée par Étienne-Louis Malus en 1809, est une conséquence directe de la nature ondulatoire et vectorielle de la lumière et joue un rôle essentiel dans l’optique, notamment dans la conception de filtres polarisants et dans l’étude des propriétés de matériaux birefringents.
