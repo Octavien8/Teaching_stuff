@@ -66,5 +66,5 @@ def update(frame):
 
 ani = animation.FuncAnimation(fig, update, frames=240, init_func=init,
                               interval=33, blit=True)
-ani.save("Cours_numeriques\\Onde_et_optique\\images\\onde_transverse-longitudinale.gif", writer=PillowWriter(fps=20))
+#ani.save("Cours_numeriques\\Onde_et_optique\\images\\onde_transverse-longitudinale.gif", writer=PillowWriter(fps=20))
 HTML(ani.to_jshtml())
