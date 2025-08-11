@@ -42,7 +42,7 @@ $$ L = \frac{2 \lambda D}{a} \quad \text{ou encore} \quad \theta = \frac{\lambda
 
 > Plus $\lambda$ est grand par rapport à $a$, plus la diffraction est marquée.
 
-[Fente unique](image/diffraction_fente_unique.png)
+! [Fente unique](image/diffraction_fente_unique.png)
 ## C. Polarisation de la lumière
 
 ### 1. Définition
@@ -61,6 +61,6 @@ $$
 \phi = \phi_0 \cos^2(\theta) 
 $$
 
-[loi de malus](image/malus.png)
+![loi de malus](image/malus.png)
 
 **Remarque** : Ce modèle ondulatoire de la lumière permet d'expliquer des phénomènes comme les interférences, la diffraction et la polarisation, mais ne rend pas compte de la quantification de l'énergie, ce qui relève du **modèle quantique**.
